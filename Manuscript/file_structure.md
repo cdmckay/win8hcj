@@ -1,0 +1,7 @@
+# File Structure
+
+In your application there are a few default files that are always there:
+
+````
+
+````
