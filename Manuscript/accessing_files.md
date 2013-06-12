@@ -20,7 +20,7 @@ ms-appx:///default.html
 ### Via HTML
 
 ````html
-<script src="images/logo.png">
+<img src="images/logo.png">
 ````
 
 ### Programatically
@@ -37,3 +37,4 @@ For images on the web you can retrieve them as you normally would when writing H
 ````html
 <img src="http://www.example.com/images/logo.png" alt="Logo" />
 ````
+
